@@ -1,0 +1,157 @@
+﻿Column Number,GDB Fieldname,Description
+1,OBJECTID,Unique ID for block group in geodatabase
+2,Shape,Coordinates defining the features
+3,ID,Census FIPS code for block group
+4,ACSTOTPOP,Total population
+5,ACSIPOVBAS,Population for whom poverty status is determined
+6,ACSEDUCBAS,Population 25 years and over
+7,ACSTOTHH,Households (for linguistic isolation)
+8,ACSTOTHU,Housing units (for % built pre-1960)
+9,ACSUNEMPBAS,Unemployment base--persons in civilian labor force (unemployment rate)
+10,MINORPOP,People of color
+11,MINORPCT,% people of color
+12,LOWINCOME,Low income
+13,LOWINCPCT,% low income
+14,LESSHS,Less than high school education
+15,LESSHSPCT,% less than high school education
+16,LINGISO,Linguistically isolated
+17,LINGISOPCT,% linguistically isolated
+18,UNDER5,Under age 5
+19,UNDER5PCT,% under age 5
+20,OVER64,Over age 64
+21,OVER64PCT,% over age 64
+22,PRE1960,Housing units built before 1960
+23,PRE1960PCT,Lead paint
+24,UNEMPLOYED,Unemployed in civilian labor force
+25,UNEMPPCT,Unemployment rate
+26,VULEOPCT,Demographic Index
+27,VULEO,Intermediate variable used for the Demographic Index
+28,DISPEO,Intermediate variable used for the Demographic Index
+29,DSLPM,2017 Diesel particulate matter
+30,CANCER,2017 Air toxics cancer risk
+31,RESP,2017 Air toxics respiratory HI
+32,PTRAF,Traffic proximity
+33,PWDIS,Wastewater discharge
+34,PNPL,Superfund proximity
+35,PRMP,RMP facility proximity
+36,PTSDF,Hazardous waste proximity
+37,OZONE,Ozone
+38,PM25,Particulate Matter 2.5
+39,UST,Underground storage tanks
+40,D_LDPNT_2,EJ Index for Lead paint
+41,D_DSLPM_2,EJ Index for 2017 Diesel particulate matter
+42,D_CANCR_2,EJ Index for  2017 Air toxics cancer risk
+43,D_RESP_2,EJ Index for  2017 Air toxics respiratory HI
+44,D_PTRAF_2,EJ Index for Traffic proximity
+45,D_PWDIS_2,EJ Index for Wastewater discharge
+46,D_PNPL_2,EJ Index for Superfund Proximity
+47,D_PRMP_2,EJ Index for RMP Facility Proximity
+48,D_PTSDF_2,EJ Index for Hazardous waste proximity
+49,D_OZONE_2,EJ Index for Ozone
+50,D_PM25_2,EJ Index for Particulate Matter 2.5
+51,D_UST_2,EJ Index for Underground storage tanks
+52,STATE_NAME,Name of state
+53,ST_ABBREV,Two-letter abbreviation for state
+54,REGION,US EPA region number
+55,P_MINORPCT,Percentile for % people of color
+56,P_LWINCPCT,Percentile for % low income
+57,P_LESHSPCT,Percentile for % less than high school education
+58,P_LNGISPCT,Percentile for % linguistically isolated
+59,P_UNDR5PCT,Percentile for % under age 5
+60,P_OVR64PCT,Percentile for % over age 64
+61,P_LDPNT,Percentile for Lead paint
+62,P_UNEMPPCT,Percentile for Unemployment rate
+63,P_VULEOPCT,Percentile for Demographic Index
+64,P_DSLPM,Percentile for  2017 Diesel particulate matter
+65,P_CANCR,Percentile for  2017 Air toxics cancer risk
+66,P_RESP,Percentile for  2017 Air toxics respiratory HI
+67,P_PTRAF,Percentile for Traffic proximity
+68,P_PWDIS,Percentile for Wastewater discharge
+69,P_PNPL,Percentile for Superfund proximity
+70,P_PRMP,Percentile for RMP facility proximity
+71,P_PTSDF,Percentile for Hazardous waste proximity
+72,P_OZONE,Percentile for Ozone
+73,P_PM25,Percentile for Particulate Matter 2.5
+74,P_UST,Percentile for Underground storage tanks
+75,P_LDPNT_D2,Percentile for EJ Index for Lead paint
+76,P_DSLPM_D2,Percentile for EJ Index for  2017 Diesel particulate matter
+77,P_CANCR_D2,Percentile for EJ Index for  2017 Air toxics cancer risk
+78,P_RESP_D2,Percentile for EJ Index for  2017 Air toxics respiratory HI
+79,P_PTRAF_D2,Percentile for EJ Index for Traffic proximity
+80,P_PWDIS_D2,Percentile for EJ Index for Wastewater discharge
+81,P_PNPL_D2,Percentile for EJ Index for Superfund proximity
+82,P_PRMP_D2,Percentile for EJ Index for RMP Facility Proximity
+83,P_PTSDF_D2,Percentile for EJ Index for Hazardous waste proximity
+84,P_OZONE_D2,Percentile for EJ Index for Ozone
+85,P_PM25_D2,Percentile for EJ Index for Particulate Matter 2.5
+86,P_UST_D2,Percentile for EJ Index for Underground storage tanks
+87,B_MINORPCT,Map color bin for % people of color
+88,B_LWINCPCT,Map color bin for % low income
+89,B_LESHSPCT,Map color bin for % less than high school education
+90,B_LNGISPCT,Map color bin for % linguistically isolated
+91,B_UNDR5PCT,Map color bin for % under age 5
+92,B_OVR64PCT,Map color bin for % over age 64
+93,B_LDPNT,Map color bin for Lead paint
+94,B_UNEMPPCT,Map color bin for Unemployment rate
+95,B_VULEOPCT,Map color bin for Demographic Index
+96,B_DSLPM,Map color bin for  2017 Diesel particulate matter
+97,B_CANCR,Map color bin for  2017 Air toxics cancer risk
+98,B_RESP,Map color bin for  2017 Air toxics respiratory HI
+99,B_PTRAF,Map color bin for Traffic proximity
+100,B_PWDIS,Map color bin for Wastewater discharge
+101,B_PNPL,Map color bin for Superfund proximity
+102,B_PRMP,Map color bin for RMP facility proximity
+103,B_PTSDF,Map color bin for Hazardous waste proximity
+104,B_OZONE,Map color bin for Ozone
+105,B_PM25,Map color bin for Particulate Matter 2.5
+106,B_UST,Map color bin for Underground storage tanks
+107,B_LDPNT_D2,Map color bin for EJ Index for Lead paint
+108,B_DSLPM_D2,Map color bin for EJ Index for  2017 Diesel particulate matter
+109,B_CANCR_D2,Map color bin for EJ Index for  2017 Air toxics cancer risk
+110,B_RESP_D2,Map color bin for EJ Index for  2017 Air toxics respiratory HI
+111,B_PTRAF_D2,Map color bin for EJ Index for Traffic proximity
+112,B_PWDIS_D2,Map color bin for EJ Index for Wastewater discharge
+113,B_PNPL_D2,Map color bin for EJ Index for Superfund proximity
+114,B_PRMP_D2,Map color bin for EJ Index for RMP Facility Proximity
+115,B_PTSDF_D2,Map color bin for EJ Index for Hazardous waste proximity
+116,B_OZONE_D2,Map color bin for EJ Index for Ozone
+117,B_PM25_D2,Map color bin for EJ Index for Particulate Matter 2.5
+118,B_UST_D2,Map color bin for EJ Index for Underground storage tanks
+119,T_MINORPCT,Map popup text for % people of color
+120,T_LWINCPCT,Map popup text for % low income
+121,T_LESHSPCT,Map popup text for % less than high school education
+122,T_LNGISPCT,Map popup text for % linguistically isolated
+123,T_UNDR5PCT,Map popup text for % under age 5
+124,T_OVR64PCT,Map popup text for % over age 64
+125,T_UNEMPPCT,Map popup text for Unemployment rate
+126,T_VULEOPCT,Map popup text for Demographic Index
+127,T_LDPNT,Map popup text for Lead paint
+128,T_LDPNT_D2,Map popup text for EJ Index for Lead paint
+129,T_DSLPM,Map popup text for  2017 Diesel particulate matter
+130,T_DSLPM_D2,Map popup text for EJ Index for  2017 Diesel particulate matter
+131,T_CANCR,Map popup text for  2017 Air toxics cancer risk
+132,T_CANCR_D2,Map popup text for EJ Index for  2017 Air toxics cancer risk
+133,T_RESP,Map popup text for  2017 Air toxics respiratory HI
+134,T_RESP_D2,Map popup text for EJ Index for  2017 Air toxics respiratory HI
+135,T_PTRAF,Map popup text for Traffic proximity
+136,T_PTRAF_D2,Map popup text for EJ Index for Traffic proximity
+137,T_PWDIS,Map popup text for Wastewater discharge
+138,T_PWDIS_D2,Map popup text for EJ Index for Wastewater discharge
+139,T_PNPL,Map popup text for Superfund proximity
+140,T_PNPL_D2,Map popup text for EJ Index for Superfund proximity
+141,T_PRMP,Map popup text for RMP facility proximity
+142,T_PRMP_D2,Map popup text for EJ Index for RMP facilities proximity
+143,T_PTSDF,Map popup text for Hazardous waste proximity
+144,T_PTSDF_D2,Map popup text for EJ Index for Hazardous waste proximity
+145,T_OZONE,Map popup text for Ozone
+146,T_OZONE_D2,Map popup text for EJ Index for Ozone
+147,T_PM25,Map popup text for Particulate Matter 2.5
+148,T_PM25_D2,Map popup text for EJ Index for Particulate Matter 2.5
+149,T_UST,Map popup text for Underground storage tanks
+150,T_UST_D2,Map popup text  for EJ Index for Underground storage tanks
+151,AREALAND,Land area in square meters
+152,AREAWATER,Water area in square meters
+153,NPL_CNT,Number of Superfund facilities in the block group
+154,TSDF_CNT,Number of Hazardous waste facilities in the block group
+155,Shape_Length,Shape length
+156,Shape_Area,Shape area
