@@ -47,7 +47,7 @@ Veolia Water New Jersey - Barry Lakes,2022,2,Small,Barry Lakes,NJ1922001,manual
 Beach Haven Borough Water Department,2022,522,Small,Beach Haven WD,NJ1503001,manual
 Beachwood Water Department,2022,0,Large,Beachwood WD,NJ1504001,manual
 Bellmawr Water Department,2022,1,Medium,Bellmawr WD,NJ0404001,manual
-Belleville Department of Public Works,2022,"5,149",Large,Bellville WD,NJ0701001,manual
+Belleville Department of Public Works,2022,5149,Large,Bellville WD,NJ0701001,manual
 Belmar Water Department,2022,569,Medium,Belmar WD,NJ1306001,manual
 NJ American Water - Belvidere,2022,14,Small,Belvidere,NJ2103001,manual
 Berkeley Township Municipal Utilities Authority,2022,0,Medium,Berkeley Twp MUA,NJ1505004,manual
@@ -62,7 +62,7 @@ Brick Township Municipal Utilities Authority,2022,0,Large,Brick Twp MUA,NJ150600
 NJ American Water - Bridgeport,2022,3,Small,Bridgeport,NJ0809001,manual
 Bridgeton City Water Department,2022,50,Large,Bridgeton City  WD,NJ0601001,manual
 Brielle Water Department,2022,0,Medium,Brielle WD,NJ1308001,manual
-Brigantine Water Department,2022,"4,937",Medium,Brigantine WD,NJ0103001,manual
+Brigantine Water Department,2022,4937,Medium,Brigantine WD,NJ0103001,manual
 Brooklawn Water Department,2022,0,Small,Brooklawn WD,NJ0407001,manual
 Buena Borough Municipal Utilities Authority - Drinking Water,2022,0,Medium,Buena,NJ0104003,manual
 Burlington City - Drinking Water,2022,30,Medium,Burlington,NJ0305001,manual
@@ -79,7 +79,7 @@ Clayton Water Department,2022,619,Medium,Clayton,NJ0801001,manual
 Clementon Water Department,2022,116,Medium,Clementon,NJ0411001,manual
 Veolia Water New Jersey - Cliffwood Lakes,2022,0,Small,Cliffwood Lakes,NJ1922004,manual
 Clinton - Drinking Water,2022,8,Medium,Clinton,NJ1005001,manual
-NJ American Water - Coastal North,2022,"3,534",Large,Coastal North,NJ1345001,manual
+NJ American Water - Coastal North,2022,3534,Large,Coastal North,NJ1345001,manual
 Colby Water Company,2022,0,Small,Colby,NJ1904007,manual
 Collingswood Water Department,2022,488,Large,Collingswood,NJ0412001,manual
 Veolia Water Toms River - Colts Neck,2022,0,Small,Colts Neck,NJ1309002,manual
@@ -96,10 +96,10 @@ East Brunswick Township Water Utility,2022,57,Large,East Brunswick WU,NJ1204001,
 East Greenwich Township Water Department,2022,140,Medium,East Greenwich Twp WD,NJ0803001,manual
 East Hanover Township Water Department,2022,0,Large,East Hanover Twp WD,NJ1410001,manual
 East Newark Water Department,2022,12,Small,East Newark WD,NJ0902001,manual
-East Orange Water Commission,2022,"7,969",Large,East Orange WC,NJ0705001,manual
+East Orange Water Commission,2022,7969,Large,East Orange WC,NJ0705001,manual
 East Windsor Municipal Utilities Authority - Drinking Water,2022,0,Large,East Windsor MUA,NJ1101002,manual
 Edison Water Department,2022,38,Large,Edison,NJ1205001,manual
-Egg Harbor City Water Department,2022,11.00,Medium,NJ American Water Egg Harbor City,NJ0107001,manual
+Egg Harbor City Water Department,2022,11,Medium,NJ American Water Egg Harbor City,NJ0107001,manual
 Elmer Borough Water Department,2022,205,Small,Elmer,NJ1702001,manual
 Elmwood Park Water Department,2022,230,Large,Elmwood,NJ0211001,manual
 Englishtown Water Department,2022,0,Small,Englishtown,NJ1312001,manual
@@ -128,7 +128,7 @@ Gloucester City Water Department,2022,12,Large,Gloucester City WD,NJ0414001,manu
 Gordons Corner Water Company,2022,0,Large,Gordon's Corner WC,NJ1326001,manual
 Veolia Water New Jersey - Greenbrook Estates,2022,0,Small,Greenbrook Estates,NJ1615002,manual
 Greenwich Township - Drinking Water,2022,0,Medium,Greenwich,NJ0807001,manual
-Veolia North America New Jersey - Hackensack,2022,"20,736",Large,Hackensack,NJ0238001,manual
+Veolia North America New Jersey - Hackensack,2022,20736,Large,Hackensack,NJ0238001,manual
 Hackettstown Municipal Utilities Authority (HMUA) w/Diamond Hill - Drinking Water,2022,66,Large,Hackettstown,NJ2108001,manual
 Haddon Township Water Department,2022,288,Large,Haddon,NJ0416001,manual
 Hamburg Board of Public Works,2022,0,Medium,Hamburg,NJ1909001,manual
@@ -140,7 +140,7 @@ Hardyston Township Municipal Utilities Authority (HTMUA) - Indian Fields,2022,0,
 Harrison Town Water Department,2022,137,Large,Harrison,NJ0904001,manual
 NJ American Water - Harrison,2022,15,Medium,Harrison,NJ0904001,manual
 Harvey Cedars Water Department,2022,0,Small,Harvey,NJ1509001,manual
-Hawthorne Water Department,2022,"4,710",Large,Hawthorne,NJ1604001,manual
+Hawthorne Water Department,2022,4710,Large,Hawthorne,NJ1604001,manual
 Helmetta Water Department,2022,0,Small,Helmetta,NJ1206001,manual
 High Bridge Water Department,2022,181,Small,High,NJ1014001,manual
 Highland Park - Drinking Water (Middlesex Water Company via Utilities Services Affiliates),2022,14,Large,Highland,NJ1207001,manual
@@ -157,7 +157,7 @@ Jackson Township Municipal Utilities Authority - Drinking Water,2022,5,Large,Jac
 "Jefferson Township - Drinking Water, Milton System",2022,0,Medium,Jefferson Twp W U Milton System,NJ1414003,manual
 "Jefferson Township - Drinking Water, Lake Hopatcong",2022,0,Medium,Jefferson Twp Water Utility - Lake Hopatcong,NJ1414011,manual
 "Jefferson Township - Drinking Water, Vassar Road",2022,0,Small,Jefferson Twp WU Vassar Road,NJ1414016,manual
-Jersey City Municipal Utilities Authority (JCMUA),2022,"1,667",Large,Jersey,NJ0906001,manual
+Jersey City Municipal Utilities Authority (JCMUA),2022,1667,Large,Jersey,NJ0906001,manual
 Keansburg Water Department,2022,0,Medium,Keansburg,NJ1321001,manual
 Kearny Water Department,2022,154,Large,Kearny,NJ0907001,manual
 Keyport Water Department,2022,0,Medium,Keyport,NJ1322001,manual
@@ -185,10 +185,10 @@ Long Beach Township Water Department - Love Ladies South,2022,0,Small,Long Beach
 Long Beach Township Water Department - North Beach,2022,0,Small,Long Beach Twp - North Beach,NJ1517003,manual
 Longport Department of Public Works,2022,0,Small,Longport,NJ0115001,manual
 Lower Township Municipal Utilities Authority (LTMUA) - Drinking Water,2022,0,Large,Lower,NJ0505002,manual
-Lyndhurst Water Department,2022,"1,692",Large,Lyndhurst,NJ0232001,manual
+Lyndhurst Water Department,2022,1692,Large,Lyndhurst,NJ0232001,manual
 Mahwah Water Department,2022,0,Large,Mahwah,NJ0233001,manual
 Manasquan Water Department,2022,2,Medium,Manasquan,NJ1327001,manual
-Manchester Township Water Utility,2022,0.00,Large,Manchester Township Water Utility - Eastern,NJ1518005,manual
+Manchester Township Water Utility,2022,0,Large,Manchester Township Water Utility - Eastern,NJ1518005,manual
 Manchester Township Water Utility - Western,2022,0,Large,Manchester Twp WU - Western,NJ1518004,manual
 Manchester Utilities Authority,2022,4,Large,Manchester Utilities Authority,NJ1603001,join
 Mantua Township Municipal Utilities Authority,2022,58,Large,Mantua,NJ0810004,manual
@@ -198,7 +198,7 @@ Marlboro Township Water Utility Division,2022,0,Large,Marlboro,NJ1328002,manual
 Matawan Borough Water Department,2022,147,Medium,Matawan,NJ1329001,manual
 Medford Township - Drinking Water,2022,3,Large,Medford,NJ0320001,manual
 Merchantville Pennsauken Water Commission,2022,435,Large,Merchantville-Pennsauken WC,NJ0424001,manual
-Middlesex Water Company,2022,"1,156",Large,Middlesex,NJ1225001,manual
+Middlesex Water Company,2022,1156,Large,Middlesex,NJ1225001,manual
 Milford - Drinking Water,2022,0,Small,Milford,NJ1615340,manual
 Milltown Water Department,2022,21,Medium,Milltown,NJ1212001,manual
 Millville - Drinking Water,2022,336,Large,Millville,NJ0610001,manual
@@ -212,7 +212,7 @@ Moorestown Township - Drinking Water,2022,38,Large,Moorestown,NJ0322001,manual
 Mount Arlington Department of Public Works,2022,0,Medium,Mount Arlington Boro DWP Main,NJ1426005,manual
 Mount Arlington Department of Public Works - Kadel System,2022,0,Small,Mount Arlington DPW Kadel Sys.,NJ1426002,manual
 Mount Laurel Township Municipal Utilities Authority (MLTMUA) - Drinking Water,2022,0,Large,Mount Laurel Twp MUA,NJ0324001,manual
-Mountain Lakes Water Department,2022,"1,209",Medium,Mountain Lakes WD,NJ1425001,manual
+Mountain Lakes Water Department,2022,1209,Medium,Mountain Lakes WD,NJ1425001,manual
 "Mount Olive Township - Drinking Water, Lynwood",2022,0,Small,Mt Olive DW - Lynwood Estates,NJ1427012,manual
 "Mount Olive Township - Drinking Water, Tinc Farm",2022,0,Small,Mt Olive Twp - Tinc Farm,NJ1427015,manual
 "Mount Olive Township - Drinking Water, Carlton Hills",2022,0,Small,Mt Olive Twp DW - Carlton Hills,NJ1427014,manual
@@ -245,7 +245,7 @@ Orange Water Department - Veolia,2022,29,Large,Orange,NJ0717001,manual
 Park Ridge Water Department,2022,9,Large,Park,NJ0247001,manual
 Veolia Water New Jersey - Parkway,2022,0,Small,Parkway,NJ1615006,manual
 Parsippany-Troy Hills - Drinking Water,2022,299,Large,Parsippany-Troy,NJ1429001,manual
-Passaic Valley Water Commission,2022,"6,162",Large,Passaic Valley Water Commission PWVC,NJ1605002,manual
+Passaic Valley Water Commission,2022,6162,Large,Passaic Valley Water Commission PWVC,NJ1605002,manual
 Passaic Valley Water Commission - Lodi,2022,51,Large,Passaic Valley WC - Lodi,NJ0231001,manual
 Passaic Valley Water Commission - North Arlington,2022,62,Large,Passaic Valley WC - North Arlington,NJ0239001,manual
 Passaic Valley Water Commission - High Crest,2022,0,Small,Passaic Valley WC High Crest,NJ1615003,manual
@@ -270,9 +270,9 @@ Pompton Lakes Boro Municipal Utilities Authority (PLBMUA) - Drinking Water,2022,
 Veolia Water New Jersey - Predmore Estates,2022,0,Small,Predmore Estates,NJ1922021,manual
 Ramsey Water Department,2022,263,Large,Ramsey,NJ0248001,manual
 Randolph Township Public Works Department,2022,0,Large,Randolph,NJ1432003,manual
-NJ American Water - Raritan,2022,"9,906",Large,Raritan,NJ2004002,manual
+NJ American Water - Raritan,2022,9906,Large,Raritan,NJ2004002,manual
 Red Bank Water Department,2022,356,Large,Red,NJ1340001,manual
-Ridgewood Village - Drinking Water,2022,"1,322",Large,Ridgewood,NJ0251001,manual
+Ridgewood Village - Drinking Water,2022,1322,Large,Ridgewood,NJ0251001,manual
 Ringwood Water Department,2022,0,Medium,Ringwood,NJ1611002,manual
 Riverdale Boro Water Department,2022,4,Small,Riverdale,NJ1433001,manual
 Rockaway Boro Water Department,2022,4,Medium,Rockaway Boro WD,NJ1434001,manual
@@ -294,7 +294,7 @@ Sea Girt Water Department,2022,0,Small,Sea Girt WD,NJ1344001,manual
 Sea Isle City Water Department,2022,27,Small,Sea Isle City WD,NJ0509001,manual
 Seaside Heights Water Department,2022,0,Small,Seaside Heights DE,NJ1526001,manual
 Seaside Park Water Department,2022,0,Small,Seaside Park WD,NJ1527001,manual
-Ship Bottom Water Department,2022,"1,670",Small,Ship,NJ1528001,manual
+Ship Bottom Water Department,2022,1670,Small,Ship,NJ1528001,manual
 Shore Water Company,2022,0,Medium,Shore,NJ0511003,manual
 NJ American Water - Shorelands,2022,5,Large,Shorelands,NJ1339001,manual
 Simmons Water Company,2022,0,Small,Simmons,NJ1924002,manual
@@ -333,16 +333,16 @@ Veolia Water New Jersey - Sussex Hills,2022,2,Small,Sussex HIlls,NJ1922006,manua
 Swedesboro - Drinking Water,2022,29,Medium,Swedesboro,NJ0817001,manual
 The Oaks of Weymouth Water Company,2022,0,Small,The Oaks of Weymouth WC,NJ0123002,manual
 Totowa Water Department,2022,0,Medium,Totowa,NJ1612001,manual
-Trenton Water Works - Drinking Water,2022,"16,257",Large,Trenton,NJ1111001,manual
+Trenton Water Works - Drinking Water,2022,16257,Large,Trenton,NJ1111001,manual
 Tuckerton Borough Water Department,2022,0,Small,Tuckerton,NJ1532002,manual
 NJ American Water - Twin Lakes,2022,2,Small,Twin Lakes,NJ1803002,manual
 NJ American Water - Union Beach,2022,1,Medium,Union Beach,NJ1350001,manual
 Upper Deerfield Township Water Department,2022,0,Medium,Upper Deerfield Twp WD,NJ0613004,manual
-Ventnor City Water Utility,2022,"5,097",Medium,Ventnor,NJ0122001,manual
+Ventnor City Water Utility,2022,5097,Medium,Ventnor,NJ0122001,manual
 Veolia Water New Jersey - Vernon Valley,2022,0,Small,Vernon Valley,NJ1922026,manual
 Verona Township - Drinking Water,2022,6,Large,Verona,NJ0720001,manual
 NJ American Water - Vincentown,2022,7,Small,Vincentown,NJ0333004,manual
-Vineland Water Utility,2022,"5,934",Large,Vineland,NJ0614003,manual
+Vineland Water Utility,2022,5934,Large,Vineland,NJ0614003,manual
 Waldwick Water Department,2022,8,Medium,Waldwick,NJ0264001,manual
 Wall Township Water Department,2022,27,Large,Wall,NJ1352003,manual
 Wallington Water Department,2022,45,Large,Wallington,NJ0265001,manual
@@ -357,11 +357,11 @@ Wenonah Water Department,2022,3,Small,Wenonah,NJ0819001,manual
 West Caldwell Water Department,2022,145,Medium,West Caldwell WD,NJ0721001,manual
 West Cape May Water Department,2022,17,Small,West Cape May WD,NJ0512001,manual
 West Deptford Township Water Department,2022,7,Large,West Deptford Twp WD,NJ0820001,manual
-NJ American Water - Western Division,2022,"2,751",Large,Western Division,NJ0327001,manual
+NJ American Water - Western Division,2022,2751,Large,Western Division,NJ0327001,manual
 Westville Water Department,2022,0,Medium,Westville,NJ0821001,manual
 Weymouth Township Municipal Utilities Authority,2022,78,Small,Weymouth,NJ0123001,manual
 Wharton Water Department,2022,138,Medium,Wharton,NJ1439001,manual
-Wildwood City Water Department,2022,"7,349",Large,Wildwood,NJ0514001,manual
+Wildwood City Water Department,2022,7349,Large,Wildwood,NJ0514001,manual
 Willingboro Municipal Utilities Authority (WMUA) - Drinking Water,2022,0,Large,Willingboro,NJ0338001,manual
 Winslow Township Municipal Utilities Department - Sicklerville/Ivystone,2022,0,Large,Winslow,NJ0436010,manual
 Woodbine Municipal Utilities Authority,2022,0,Small,Woodbine MUA,NJ0516001,manual
@@ -372,15 +372,15 @@ Veolia Water New Jersey - Woodridge Estates,2022,2,Small,Woodridge Estates,NJ192
 Woodstown - Drinking Water,2022,2,Medium,Woodstown,NJ1715001,manual
 Wrightstown Municipal Utilities Authority - Drinking Water,2022,0,Small,Wrightstown,NJ0340001,manual
 Blairstown Township Water Department,2022,21,Small,Township of Blairstown DPW,NJ2104001,manual
-Camden City Water Department - NJ American Water,2022,"10,709",Large,City of Camden,NJ0408001,manual
+Camden City Water Department - NJ American Water,2022,10709,Large,City of Camden,NJ0408001,manual
 Madison Water Department,2022,35,Large,,,none
 "Mount Olive Township - Drinking Water, Flanders",2022,0,Medium,,,none
 NJ American Water - Mount Olive - West Jersey,2022,79,Small,,,none
-NJ American Water - Passaic Basin,2022,"7,210",Large,NEW JERSEY AMERICAN WATER COMPANY - PASSAIC BASIN,NJ0712001,lookup
+NJ American Water - Passaic Basin,2022,7210,Large,NEW JERSEY AMERICAN WATER COMPANY - PASSAIC BASIN,NJ0712001,lookup
 Passaic Valley Water Commission - Postbrook,2022,0,Small,,,none
 Rahway Water Department - Veolia,2022,473,Large,SUEZ Water NJ - Rahway,NJ2013001,manual
 Spring Lake Heights Borough - Drinking Water,2022,11,Medium,Boro of Spring Lake Heights WD,NJ1349001,manual
-Veolia Bayonne Operations ,2022,"2,673",Large,City of Bayonne,NJ0901001,manual
+Veolia Bayonne Operations ,2022,2673,Large,City of Bayonne,NJ0901001,manual
 Veolia Water Manalapan - Millhurst,2022,0,Small,SUEZ Water Manalapan Milhurst,NJ1326005,manual
 Veolia Water Manalapan - Tracey Station,2022,0,Small,Manalapan Twp WD - Tracy Station,NJ1326007,manual
 Veolia Water New Jersey - Bald Eagle Village (formerly West Milford),2022,0,Small,,,none
